@@ -1,5 +1,5 @@
-Music_App_UI
-Music_App_UI is a user-friendly music app that offers a smooth and personalized listening experience.
+#Music_App_UI
+This App is a user-friendly music app that offers a smooth and personalized listening experience.
 It includes all the essential features to enjoy your favorite songs and discover new music effortlessly:
 
 Create Account & Sign In: Users can easily create an account and sign in to manage their personalized music library.
