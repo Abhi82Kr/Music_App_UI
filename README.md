@@ -1,4 +1,6 @@
 #Music_App_UI
+
+
 This App is a user-friendly music app that offers a smooth and personalized listening experience.
 It includes all the essential features to enjoy your favorite songs and discover new music effortlessly:
 
